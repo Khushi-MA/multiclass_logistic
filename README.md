@@ -13,5 +13,4 @@ Work referred from [Youtube video](https://youtu.be/FE5iBi1cakg) by [LumberjackS
 
 # Digits dataset
 - Import necessary Library 
-- Import the dataset I want
-- to use Linear Regression Multiclass Classification
+- Import the dataset needed
